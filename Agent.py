@@ -1,8 +1,3 @@
-# Author: Daniel Rozen
-# Project 3
-# KBAI
-# Agent was inspired by JWang.
-
 # Your self for solving Raven's Progressive Matrices. You MUST modify this file.
 #
 # You may also create and submit new files in addition to modifying this file.
